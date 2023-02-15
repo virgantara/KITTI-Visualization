@@ -1,6 +1,12 @@
+# IDE Files
+#-------------------------
+/nbproject/
 .idea/*
-imgs
-*.pdf
-*.png
-__pycache__/*
-.ipynb_checkpoints/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
